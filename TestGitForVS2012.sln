@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestGitForVS2012", "TestGitForVS2012.vbproj", "{C9788DC1-FBB0-4607-B558-2BDCA05A2F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9788DC1-FBB0-4607-B558-2BDCA05A2F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9788DC1-FBB0-4607-B558-2BDCA05A2F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9788DC1-FBB0-4607-B558-2BDCA05A2F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9788DC1-FBB0-4607-B558-2BDCA05A2F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
